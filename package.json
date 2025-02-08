@@ -1,5 +1,5 @@
 {
-  "name": "exapi_valid",
+  "name": "empapi_valid",
   "version": "0.0.1",
   "description": "Express API with simple Sequelize",
   "main": "index.js",
