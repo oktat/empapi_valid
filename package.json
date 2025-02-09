@@ -2,7 +2,7 @@
   "name": "empapi_valid",
   "version": "0.0.1",
   "description": "Express API with simple Sequelize",
-  "main": "index.js",
+  "main": "app/index.js",
   "scripts": {
     "test": "mocha",
     "dev": "nodemon app --watch app",
